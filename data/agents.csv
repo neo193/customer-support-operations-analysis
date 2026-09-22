@@ -1,0 +1,19 @@
+agent_id,agent_name,team,experience_level
+A001,Agent 01,Alpha,Junior
+A002,Agent 02,Alpha,Junior
+A003,Agent 03,Alpha,Mid
+A004,Agent 04,Alpha,Mid
+A005,Agent 05,Alpha,Senior
+A006,Agent 06,Alpha,Senior
+A007,Agent 07,Bravo,Junior
+A008,Agent 08,Bravo,Junior
+A009,Agent 09,Bravo,Mid
+A010,Agent 10,Bravo,Mid
+A011,Agent 11,Bravo,Senior
+A012,Agent 12,Bravo,Senior
+A013,Agent 13,Charlie,Junior
+A014,Agent 14,Charlie,Junior
+A015,Agent 15,Charlie,Mid
+A016,Agent 16,Charlie,Mid
+A017,Agent 17,Charlie,Senior
+A018,Agent 18,Charlie,Senior

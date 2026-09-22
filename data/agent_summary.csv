@@ -1,0 +1,19 @@
+agent_id,agent_name,team,experience_level,tickets,avg_resolution_hours,sla_met_pct,avg_csat
+A017,Agent 17,Charlie,Senior,257,22.08,80.5,4.42
+A004,Agent 04,Alpha,Mid,252,23.89,77.0,4.4
+A013,Agent 13,Charlie,Junior,250,25.29,75.2,4.42
+A005,Agent 05,Alpha,Senior,246,23.9,74.4,4.41
+A012,Agent 12,Bravo,Senior,246,24.79,73.6,4.43
+A014,Agent 14,Charlie,Junior,241,24.7,72.6,4.49
+A009,Agent 09,Bravo,Mid,240,25.84,73.3,4.38
+A008,Agent 08,Bravo,Junior,238,23.03,76.5,4.45
+A018,Agent 18,Charlie,Senior,234,25.08,72.6,4.36
+A015,Agent 15,Charlie,Mid,233,24.34,73.0,4.25
+A010,Agent 10,Bravo,Mid,231,24.57,72.7,4.42
+A007,Agent 07,Bravo,Junior,223,24.77,76.7,4.47
+A011,Agent 11,Bravo,Senior,223,23.92,75.3,4.33
+A016,Agent 16,Charlie,Mid,223,25.63,74.9,4.3
+A001,Agent 01,Alpha,Junior,222,22.33,75.7,4.37
+A003,Agent 03,Alpha,Mid,221,22.32,75.6,4.47
+A002,Agent 02,Alpha,Junior,216,23.8,73.1,4.31
+A006,Agent 06,Alpha,Senior,204,21.89,79.9,4.36

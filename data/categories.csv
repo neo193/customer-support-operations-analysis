@@ -1,0 +1,7 @@
+category_id,issue_category,sla_hours
+C01,Account & Login,12
+C02,Billing,24
+C03,Delivery,24
+C04,Product Setup,18
+C05,Replacement / Refund,48
+C06,Technical Issue,36

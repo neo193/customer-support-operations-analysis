@@ -1,0 +1,7 @@
+issue_category,tickets,avg_resolution_hours,sla_met_pct,escalation_pct,avg_csat
+Technical Issue,1010,31.97,70.4,17.6,4.26
+Replacement / Refund,810,41.03,73.6,17.9,4.11
+Product Setup,652,12.95,82.2,10.1,4.63
+Account & Login,596,9.9,73.8,8.2,4.62
+Billing,587,16.73,82.5,10.7,4.47
+Delivery,545,20.6,71.4,10.5,4.46
